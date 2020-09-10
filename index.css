@@ -10,19 +10,28 @@ body {
 	text-align: center;
 	text-transform: uppercase;
 	top: 15%;
-	background: linear-gradient(to right, red, yellow);
+	background: linear-gradient(to right, #f10909, #0004ff);
 }
 h1 {
 	font: 600 3em 'Raleway', sans-serif;
 	color: rgba(0, 0, 0, .5);
-	margin-top: 100px;
-	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-bottom: 20px;
 	text-transform: uppercase;
 	letter-spacing: .5em;
 	width: 100%;
 }
+h2 {
+	font-size: 1em;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+p{
+	font-size: 1.4em;
+	margin-bottom: 40px;
+}
 h3 {
-	font: 900 1em 'Raleway', sans-serif;
+	font: 800 1em 'Raleway', sans-serif;
 	color: rgba(0, 0, 0, .5);
 	text-align: center;
 	text-transform: none;
